@@ -1,0 +1,12 @@
+<svg width="1200" height="630" viewBox="0 0 1200 630" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="630" fill="#14081F"/>
+  <circle cx="120" cy="610" r="240" fill="#FF6A3D" fill-opacity="0.16"/>
+  <circle cx="1080" cy="120" r="120" fill="#2DF7C4" fill-opacity="0.22"/>
+  <rect x="72" y="66" width="152" height="16" rx="8" fill="#FFE45E"/>
+  <text x="72" y="118" fill="#FFE45E" font-family="Segoe UI, Arial, sans-serif" font-size="24" font-weight="700">BASE MINI APP</text>
+  <text x="72" y="250" fill="#F8F2FF" font-family="Segoe UI, Arial, sans-serif" font-size="92" font-weight="800">BaseQuest</text>
+  <text x="76" y="320" fill="#D5C4F2" font-family="Segoe UI, Arial, sans-serif" font-size="30">Publish quests, verify work, reward builders on Base.</text>
+  <path d="M780 468L900 184H974L854 468H780Z" fill="#FFE45E"/>
+  <path d="M926 468L1048 184H1104L982 468H926Z" fill="#FF6A3D"/>
+  <circle cx="1082" cy="434" r="44" fill="#2DF7C4"/>
+</svg>
