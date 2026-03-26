@@ -12,6 +12,7 @@ import {
 } from "wagmi";
 import { formatUnits, hexToString, isAddressEqual, stringToHex } from "viem";
 import { APP_ID, APP_NAME, baseQuestAbi, CHAIN_ID, CONTRACT_ADDRESS } from "@/lib/basequest";
+import { BUILDER_CODE, DATA_SUFFIX } from "@/lib/attribution";
 import { trackTransaction } from "@/utils/track";
 
 function truncate(value, start = 6, end = 4) {
@@ -457,7 +458,17 @@ export function QuestApp() {
 
           <div className="spotlight-panel">
             <h3>Attribution Ready</h3>
-            <p>Every confirmed transaction is prepared for Base dashboard tracking.</p>
+            <p>
+              Builder code <span className="mono">{BUILDER_CODE}</span> is wired to
+              ERC-8021 data suffix attribution for every write transaction.
+            </p>
+          </div>
+
+          <div className="spotlight-panel">
+            <h3>8021 Verified</h3>
+            <p>
+              Encoded suffix locked to <span className="mono">{truncate(DATA_SUFFIX, 16, 10)}</span>.
+            </p>
           </div>
         </aside>
       </section>
