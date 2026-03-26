@@ -1,0 +1,50 @@
+{
+  "baseBuilder": {
+    "allowedAddresses": [
+      "0x3035E8B39a5bBd98AE71E29672C6e0D47E121e59"
+    ]
+  },
+  "miniapp": {
+    "version": "1",
+    "name": "BaseQuest",
+    "subtitle": "Quest bounty workflow",
+    "description": "Publish quests on Base, verify completion proofs, and route rewards through an event-driven bounty workflow.",
+    "tagline": "Quest bounties on Base",
+    "iconUrl": "https://basequest-one.vercel.app/icon.svg",
+    "splashImageUrl": "https://basequest-one.vercel.app/splash.svg",
+    "splashBackgroundColor": "#14081f",
+    "homeUrl": "https://basequest-one.vercel.app",
+    "heroImageUrl": "https://basequest-one.vercel.app/og.svg",
+    "screenshotUrls": [
+      "https://basequest-one.vercel.app/screenshots/quest-board.svg",
+      "https://basequest-one.vercel.app/screenshots/create-quest.svg",
+      "https://basequest-one.vercel.app/screenshots/proof-flow.svg"
+    ],
+    "primaryCategory": "developer-tools",
+    "tags": [
+      "base",
+      "quests",
+      "bounty",
+      "rewards",
+      "onchain"
+    ],
+    "ogTitle": "BaseQuest | Quest Protocol on Base",
+    "ogDescription": "Publish quests on Base, verify completion proofs, and route rewards through an event-driven bounty workflow.",
+    "ogImageUrl": "https://basequest-one.vercel.app/og.svg",
+    "canonicalDomain": "basequest-one.vercel.app"
+  },
+  "frame": {
+    "version": "next",
+    "imageUrl": "https://basequest-one.vercel.app/og.svg",
+    "button": {
+      "title": "Launch BaseQuest",
+      "action": {
+        "type": "launch_frame",
+        "name": "BaseQuest",
+        "url": "https://basequest-one.vercel.app",
+        "splashImageUrl": "https://basequest-one.vercel.app/splash.svg",
+        "splashBackgroundColor": "#14081f"
+      }
+    }
+  }
+}

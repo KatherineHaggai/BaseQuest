@@ -51,6 +51,7 @@ export default function RootLayout({ children }) {
         <meta name="fc:miniapp" content={miniAppEmbed} />
         <meta name="fc:frame" content={miniAppEmbed} />
         <meta name="base:app_id" content="69c49fdc06cd4778829de8a5" />
+        <meta property="base:app_id" content="69c49fdc06cd4778829de8a5" />
         <meta
           name="talentapp:project_verification"
           content="7059f1b6309765eafe463a47b1c6f7ea893259279b69daafc9897c14474d3995de2484db8c8bf5c20570f44a368af249c91b2d895bb6f1f6bad65618c8a63752"
