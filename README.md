@@ -28,3 +28,8 @@ The app is designed around a small contract surface and clear event-driven inter
 - Close quests after accepting a winner.
 - Use hardcoded Base and Talent verification meta tags.
 - Track transaction attribution for confirmed writes.
+- Keep quest actions simple and easy to follow.
+
+## Getting Started
+
+Clone the repository:
