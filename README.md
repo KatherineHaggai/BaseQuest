@@ -39,3 +39,9 @@ git clone https://github.com/KatherineHaggai/BaseQuest.git
 ```
 
 Move into the project directory:
+
+```bash
+cd BaseQuest
+```
+
+Install dependencies:
