@@ -45,3 +45,9 @@ cd BaseQuest
 ```
 
 Install dependencies:
+
+```bash
+npm install
+```
+
+Start the local development server:
