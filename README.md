@@ -33,3 +33,9 @@ The app is designed around a small contract surface and clear event-driven inter
 ## Getting Started
 
 Clone the repository:
+
+```bash
+git clone https://github.com/KatherineHaggai/BaseQuest.git
+```
+
+Move into the project directory:
