@@ -69,3 +69,9 @@ Review submitted proof strings from participants.
 Accept the winning submission when the proof satisfies the quest requirements.
 
 After a submission is accepted, the quest can be closed.
+
+Confirmed write actions are tracked for attribution.
+
+## Project Structure
+
+The repository contains the source code for the BaseQuest mini app.
