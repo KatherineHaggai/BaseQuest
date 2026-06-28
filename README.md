@@ -57,3 +57,9 @@ npm run dev
 ```
 
 Open the local URL printed by the development server in your browser.
+
+## Usage
+
+Use the app to create a new quest with concise quest content and a point reward.
+
+Once a quest is active, participants can submit proof as text.
