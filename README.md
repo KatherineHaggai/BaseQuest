@@ -105,3 +105,9 @@ npm install
 Run locally:
 
 ```bash
+npm run dev
+```
+
+## Important Notes
+
+This README reflects the currently documented project details.
