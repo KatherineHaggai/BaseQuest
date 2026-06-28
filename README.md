@@ -99,3 +99,9 @@ The app includes Base and Talent verification meta tags.
 Install dependencies:
 
 ```bash
+npm install
+```
+
+Run locally:
+
+```bash
