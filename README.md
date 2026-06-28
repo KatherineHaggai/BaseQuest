@@ -63,3 +63,9 @@ Open the local URL printed by the development server in your browser.
 Use the app to create a new quest with concise quest content and a point reward.
 
 Once a quest is active, participants can submit proof as text.
+
+Review submitted proof strings from participants.
+
+Accept the winning submission when the proof satisfies the quest requirements.
+
+After a submission is accepted, the quest can be closed.
