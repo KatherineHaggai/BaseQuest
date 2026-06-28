@@ -111,3 +111,9 @@ npm run dev
 ## Important Notes
 
 This README reflects the currently documented project details.
+
+Before making contract-related changes, verify the intended network and deployed address.
+
+When updating the app, keep the quest flow clear: create, submit proof, accept, and close.
+
+When updating documentation, preserve the contract information and core feature list.
