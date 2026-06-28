@@ -81,3 +81,9 @@ The app integrates with the deployed Base Mainnet contract listed above.
 Local development is handled with npm scripts.
 
 ## Development Notes
+
+Make sure dependencies are installed before running the development server.
+
+The contract address is fixed to the Base Mainnet deployment shown in this README.
+
+Quest content is intentionally short and suited for onchain publishing.
