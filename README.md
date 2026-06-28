@@ -22,3 +22,9 @@ The app is designed around a small contract surface and clear event-driven inter
 ## Features
 
 - Create quests with short onchain content.
+- Assign reward points to quests.
+- Submit proof strings for active quests.
+- Accept winning submissions.
+- Close quests after accepting a winner.
+- Use hardcoded Base and Talent verification meta tags.
+- Track transaction attribution for confirmed writes.
