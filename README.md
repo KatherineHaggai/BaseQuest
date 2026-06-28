@@ -93,3 +93,9 @@ Proof submissions are represented as strings.
 Reward values are represented as points.
 
 The app includes Base and Talent verification meta tags.
+
+## Commands
+
+Install dependencies:
+
+```bash
