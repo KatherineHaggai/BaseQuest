@@ -87,3 +87,9 @@ Make sure dependencies are installed before running the development server.
 The contract address is fixed to the Base Mainnet deployment shown in this README.
 
 Quest content is intentionally short and suited for onchain publishing.
+
+Proof submissions are represented as strings.
+
+Reward values are represented as points.
+
+The app includes Base and Talent verification meta tags.
