@@ -75,3 +75,9 @@ Confirmed write actions are tracked for attribution.
 ## Project Structure
 
 The repository contains the source code for the BaseQuest mini app.
+
+The app integrates with the deployed Base Mainnet contract listed above.
+
+Local development is handled with npm scripts.
+
+## Development Notes
