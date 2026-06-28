@@ -15,3 +15,10 @@ Quest creators can accept winning submissions and close quests when a winner has
 The app is designed around a small contract surface and clear event-driven interactions.
 
 ## Contract
+
+- Network: Base Mainnet
+- Address: `0x3035E8B39a5bBd98AE71E29672C6e0D47E121e59`
+
+## Features
+
+- Create quests with short onchain content.
