@@ -51,3 +51,9 @@ npm install
 ```
 
 Start the local development server:
+
+```bash
+npm run dev
+```
+
+Open the local URL printed by the development server in your browser.
